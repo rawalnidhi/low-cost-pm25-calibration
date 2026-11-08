@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-test/
+venv/
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+
+# Data: downloaded and generated locally
+data/raw/*
+data/processed/*
+
+# Keep data directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# macOS
+.DS_Store
+
+# Jupyter temporary files
+*.nbconvert.ipynb   

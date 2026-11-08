@@ -1,0 +1,18 @@
+# Tested with Python 3.12.2
+
+# Data analysis
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+statsmodels==0.15.0
+
+# Visualization
+matplotlib==3.11.2
+
+# Word document support
+python-docx==1.2.0
+
+# Jupyter notebook environment
+jupyter==1.1.1
+ipykernel==7.4.0
+jupyterlab==4.6.4
