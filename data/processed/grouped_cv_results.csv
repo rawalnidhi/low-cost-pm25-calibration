@@ -1,0 +1,16 @@
+Fold,Model,Validation_Sites,Validation_Observations,MAE
+1,Raw CF=ATM,7,1911,7.405968871718977
+1,Simple linear calibration,7,1911,1.8866716413092322
+1,Humidity-aware calibration,7,1911,1.5849951365485477
+2,Raw CF=ATM,8,1903,4.495665104894917
+2,Simple linear calibration,8,1903,1.9721649834365826
+2,Humidity-aware calibration,8,1903,1.743054454637409
+3,Raw CF=ATM,7,1911,4.5097350208463
+3,Simple linear calibration,7,1911,1.714818247115725
+3,Humidity-aware calibration,7,1911,1.4529434852984104
+4,Raw CF=ATM,8,1903,5.857402288720515
+4,Simple linear calibration,8,1903,2.209696734538443
+4,Humidity-aware calibration,8,1903,2.0145189355169686
+5,Raw CF=ATM,8,1901,3.8651519337574864
+5,Simple linear calibration,8,1901,1.9018018840919881
+5,Humidity-aware calibration,8,1901,1.487510892643546

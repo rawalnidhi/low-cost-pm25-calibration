@@ -1,0 +1,50 @@
+ID,region,split
+AK1,Alaska,test
+AK2,Alaska,train
+AK4,Alaska,train
+AZ1,Central Southwest,train
+AZ3,Central Southwest,test
+AZ4,Central Southwest,train
+CA1,West,test
+CA10,West,train
+CA13,West,train
+CA15,West,train
+CA16,West,train
+CA17,West,train
+CA18,West,train
+CA19,West,train
+CA2,West,train
+CA3,West,test
+CA4,West,train
+CA5,West,test
+CA6,West,train
+CO1,Central Southwest,train
+FL1,Southeast,train
+GA1,Southeast,test
+IA1,North,test
+IA10,North,test
+IA11,North,train
+IA12,North,train
+IA2,North,train
+IA3,North,train
+IA4,North,train
+IA8,North,train
+IA9,North,train
+KS1,Central Southwest,train
+KS2,Central Southwest,train
+KS3,Central Southwest,train
+MT1,North,train
+NC4,Southeast,train
+OK1,Central Southwest,test
+OK3,Central Southwest,train
+VA1,Southeast,train
+VT1,North,train
+WA1,North,train
+WA2,North,train
+WA3,North,train
+WI1,North,train
+WI2,North,test
+WI3,North,train
+WI4,North,test
+WI5,North,train
+WI6,North,train
